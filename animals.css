@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "Raleway"; 
+  src: url('Raleway-Light.ttf'); 
+} 
+
+@font-face {
+  font-family: "Panama"; 
+  src: url('Panama-Light.otf'); 
+} 
+
+@font-face {
+  font-family: "Bavro"; 
+  src: url('Bavro-Regular.ttf'); 
+} 
+
+/*.page-header{
+	
+	padding-left: 300px;
+	margin-bottom: 2px;
+
+}
+
+.animals{
+	padding-left: 300px;
+	display: inline;
+	font-size: 35px;
+
+}
+
+
+
+.nav a{
+	display: inline-block;
+    color: black;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav a:hover{
+    color: gray;
+}
+
+
+
+.nav li{
+    display:inline;
+}
+
+.nav li~li{
+	border-left: 2px solid #000000;
+}
+
+
+
+
+.people{
+	height: 675px;
+	width: 1422px;
+	text-align: center;
+}
+*/
